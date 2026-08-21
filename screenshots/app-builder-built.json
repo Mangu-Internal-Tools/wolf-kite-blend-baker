@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MANGU",
+      "hasCanvas": false,
+      "bodyTextLen": 491,
+      "bodyTextHash": "ecaeb952c08738221ac9015264b5e029c29e9af200fd0b76b01508d2bb13ba70",
+      "bodyTextPrefix": "MANGU IDEA TO MARKET House Ledger Ideate Taps Agents THE HOUSE I",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MANGU",
+      "hasCanvas": false,
+      "bodyTextLen": 2913,
+      "bodyTextHash": "884b79480780e0366d1be4462b6a212f15f0703a1436b7ecdcdca722654346f8",
+      "bodyTextPrefix": "MANGU THE HOUSE IS AWAKE Idea to market, with three taps of a hu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (513 -> 2913 chars, hash mismatch)"
+  ]
+}

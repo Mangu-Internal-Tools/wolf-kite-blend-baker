@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MANGU",
+      "hasCanvas": false,
+      "bodyTextLen": 490,
+      "bodyTextHash": "c5c4bee126305c77ba23fe8bb03750f2e0c8b6338ae53a7525f5e0ef80496b63",
+      "bodyTextPrefix": "MANGU IDEA TO MARKET House Ledger Ideate Taps Agents THE HOUSE I",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MANGU",
+      "hasCanvas": false,
+      "bodyTextLen": 513,
+      "bodyTextHash": "5f20a97f757f027f25c64eb386797a24c0d474ac8b22191a1f785de2e364980d",
+      "bodyTextPrefix": "MANGUIdea to Market HouseLedgerIdeateTapsAgents The house is awa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
